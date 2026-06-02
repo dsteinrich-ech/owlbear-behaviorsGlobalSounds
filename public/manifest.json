@@ -1,11 +1,11 @@
 {
-  "name": "Behaviors",
+  "name": "BehaviorsSounds",
   "description": "Bring tokens to life with block-based automated behavior inspired by Scratch. Integrates with other extensions.",
   "version": "1.13.2",
   "manifest_version": 1,
   "author": "desain",
   "icon": "/logo-bg.svg",
-  "homepage_url": "https://github.com/desain/owlbear-behaviors",
+  "homepage_url": "https://github.com/dsteinrich-ech/owlbear-behaviorsGlobalSounds",
   "action": {
     "title": "Behaviors",
     "icon": "/logo.svg",
