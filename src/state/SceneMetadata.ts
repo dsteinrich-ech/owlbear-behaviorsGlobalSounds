@@ -50,6 +50,13 @@ export const DEFAULT_SCENE_METADATA = {
         [DROPDOWN_SOUND_MEOW]: {
             url: "https://cdn.freesound.org/previews/732/732520_13416215-lq.mp3",
         },
+          "Magic Sparkle": {
+            url: "https://audio.jukehost.co.uk/019e7d88-917b-70aa-8815-6d178b26078b",
+        },
+            "Magic Whoosh": {
+            url: " https://audio.jukehost.co.uk/019e7d7b-f5f1-732b-afad-b608fbd2d4a7",
+        },
+       
     },
 } satisfies SceneMetadata;
 
